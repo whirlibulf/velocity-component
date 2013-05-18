@@ -11,7 +11,7 @@ A component for storing x, y, and z velocities of an object in the whirlibulf ga
 
 Register the component:
 
-    game.addComponent('velocity', require('velocity-comopnent'));
+    game.use('velocity', require('velocity-comopnent'));
 
 The options object for this component:
 
