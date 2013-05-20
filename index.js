@@ -1,4 +1,4 @@
-function (ComponentFactory(options) {
+function ComponentFactory(options) {
   return {
     "x": options.x || 0,
     "y": options.y || 0,
