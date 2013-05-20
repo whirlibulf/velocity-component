@@ -1,6 +1,6 @@
 {
-  "name": "velocity",
-  "repo": "whirlibulf/velocity",
+  "name": "velocity-component",
+  "repo": "whirlibulf/velocity-component",
   "description": "A component for storing velocity in the whirlibulf game engine",
   "version": "0.0.1",
   "keywords": ["whirlibulf", "component"],
